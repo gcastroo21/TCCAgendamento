@@ -1,0 +1,92 @@
+.Serviços {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.serviço1 {
+    margin: 10px;
+}
+
+.serviço2 {
+    margin: 10px;
+}
+
+.serviço3 {
+    margin: 10px;
+}
+
+.serviço4 {
+    margin: 10px;
+}
+
+.serviço5 {
+    margin: 10px;
+}
+
+.Servicinhos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10vh;
+    color: orange;
+}
+
+.voltinha {
+    color: black;
+    background-color: orange;
+    border: 1px solid black;
+}
+
+.link4 {
+    margin-top: 10px;
+    margin: 10px;
+}
+
+.hidrata
+{
+    background-repeat: no-repeat;
+    background-image: url(../../imagens/hidrata.jpg);
+    background-size: 100%;
+}
+
+.chapinha
+{
+    background-repeat: no-repeat;
+    background-image: url(../../imagens/chapinha.jpg);
+    background-size: 110%;
+}
+
+.escova
+{
+    background-image: url(../../imagens/escova.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.corte
+{
+    background-image: url(../../imagens/corte-cabelo.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.baby
+{
+    background-image: url(../../imagens/babyliss.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.button
+{
+    background-color: orange;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+}

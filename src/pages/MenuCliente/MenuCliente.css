@@ -1,0 +1,76 @@
+.Título {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 10vh;
+    color: orange;
+}
+
+.Serviços {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20vh;
+    color: black;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 6px;
+    color: black;
+    border: 1px solid black;
+    background-color:orange;
+}
+
+.Título2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 60vh; 
+    color: black;
+}
+
+.Botão2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 4vh;
+    margin: 10px;
+}
+
+.rodape {
+    background-color: rgba(0, 0, 0, 0.733);
+    color: orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50vh;
+}
+
+.Botão {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 4vh;
+    margin: 10px;
+}
+
+.tudão {
+    background: url(../../imagens/fundão-top2.png);
+    background-attachment: fixed;
+}
+
+.button
+{
+    background-color: orange;
+    border: none;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+}

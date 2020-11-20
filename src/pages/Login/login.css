@@ -1,0 +1,60 @@
+.inserir{
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.TituloLogin {
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: orange;
+    margin: 20px;
+}
+
+.btn {
+    flex-direction: row;
+    display: flexbox;
+    align-items: center;
+    justify-content: center;
+    margin-top: 3vh;
+    
+}
+
+.btn2{
+    flex-direction: row;
+    display: flexbox;
+    align-items: center;
+    justify-content: center;
+}
+
+.Tudo {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    width: 90vh;
+    height: 80vh;
+    margin-left: 60vh;
+    margin-top: 10vh;
+    background-color: rgb(51, 51, 51);
+}
+
+body {
+    background-color: gray;
+}
+
+.button
+{
+    background-color: orange;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+}

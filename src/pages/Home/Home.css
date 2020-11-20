@@ -1,0 +1,53 @@
+
+.TextoHome {
+  text-align: center;
+  margin-top: 30vh;
+  -webkit-text-stroke-width: 0.2px;
+  -webkit-text-stroke-color: #000;
+  font-size: 1.5em; color: white;
+}
+
+.App{
+  background: url(../../imagens/fundão-top.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100vw;
+  height: 100vh;
+}
+
+.textin{
+  color: orange;
+  font-size: 0.8em;
+}
+
+.Cabeçalho {
+  background-color: rgba(0, 0, 0, 0.733);
+  display: flex;
+  flex-direction: row;
+  color: orange;
+}
+
+.htitle {
+  margin-left: 30px;
+}
+
+.CabeçalhoBotão {
+  margin: 1px;
+  margin-left: 140vh;
+  margin-top: 1vh;
+}
+
+.button
+{
+    background-color: orange;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+}
+
+.CabeçalhoBotão2 {
+  margin-top: 1vh;
+}

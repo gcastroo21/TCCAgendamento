@@ -1,0 +1,25 @@
+.TituloFunc {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10vh;
+}
+
+.btns1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30vh;
+    flex-direction: row;
+}
+
+.button
+{
+    background-color: orange;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+}
